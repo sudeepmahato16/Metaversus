@@ -11,7 +11,7 @@ import {
 } from "./sections";
 
 const Home = () => (
-  <>
+  <div className="bg-primary-black overflow-hidden">
     <Navbar />
     <Hero />
     <About />
@@ -22,7 +22,7 @@ const Home = () => (
     <Insights />
     <Feedback />
     <Footer />
-  </>
+  </div>
 );
 
 export default Home;
