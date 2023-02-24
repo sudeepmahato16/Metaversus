@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./../styles/index";
+
 interface Props {
   number: string;
   text: string;

@@ -1,13 +1,11 @@
-import React from "react";
 import { motion } from "framer-motion";
-import styles from "./../styles/index";
-
-import { fadeIn, staggerContainer, planetVariants } from "../utils/motion";
 
 import { StartSteps, TitleText, TypingText } from "../components";
-import { startingFeatures } from "./../constants/index";
-
 import GetStartedImage from "./../assets/img/get-started.png";
+
+import styles from "./../styles/index";
+import { fadeIn, staggerContainer, planetVariants } from "../utils/motion";
+import { startingFeatures } from "./../constants/index";
 
 const GetStarted = () => (
   <section className={`${styles.paddings} relative z-10`}>

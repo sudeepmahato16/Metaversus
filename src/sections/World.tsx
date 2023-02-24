@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
-import styles from "./../styles/index";
-
-import { fadeIn, staggerContainer } from "../utils/motion";
 
 import { TitleText, TypingText } from "../components";
+
+import { fadeIn, staggerContainer } from "../utils/motion";
+import styles from "./../styles/index";
 
 import Map from "./../assets/img/map.png";
 import People1 from "./../assets/img/people-01.png";

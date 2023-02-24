@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
-import styles from "./../styles";
 
+import styles from "./../styles";
 import { navVariants } from "./../utils/motion";
+
 import Logo from "./../assets/img/search.svg";
 import Menu from "./../assets/img/menu.svg";
 

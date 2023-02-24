@@ -1,8 +1,9 @@
 import { motion } from "framer-motion";
-import { NewFeatures, TitleText, TypingText } from "../components";
-import { newFeatures } from "./../constants/index";
 
+import { NewFeatures, TitleText, TypingText } from "../components";
 import whatNewImage from "./../assets/img/whats-new.png";
+
+import { newFeatures } from "./../constants/index";
 import { fadeIn, staggerContainer, planetVariants } from "../utils/motion";
 import styles from "./../styles/index";
 
