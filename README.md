@@ -34,5 +34,5 @@ A web design using react, typescript and tailwind css.
 3. Run Project
 
 ```
-  npm run dev (or yarn start)
+  npm run dev (or yarn run dev)
 ```
